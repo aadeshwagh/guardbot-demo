@@ -1,0 +1,8 @@
+.env
+/logs
+/deploy
+/baseline/*
+**/__pycache__
+/venv
+
+
