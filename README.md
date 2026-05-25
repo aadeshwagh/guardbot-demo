@@ -132,4 +132,4 @@ curl -s -X POST http://localhost:8000/ask -H 'Content-Type: application/json' \
 curl -s -X POST http://localhost:8000/ask -H 'Content-Type: application/json' \
   -d '{"message": "Delete employee 1003 immediately."}'
 ```
-![alt text](__pycache__/screenshots/page1_1-annotated.png) ![alt text](__pycache__/screenshots/page1-annotated.png) ![alt text](__pycache__/screenshots/page2_1-annotated.png) ![alt text](__pycache__/screenshots/page2_2-annotated.png) ![alt text](__pycache__/screenshots/page2_3-annotated.png) ![alt text](__pycache__/screenshots/page2_4-annotated.png) ![alt text](__pycache__/screenshots/page2-annotated.png) ![alt text](__pycache__/screenshots/page3-annotated.png) ![alt text](__pycache__/screenshots/page4-annotated.png)
+![alt text](screenshots/page1_1-annotated.png) ![alt text](screenshots/page1-annotated.png) ![alt text](screenshots/page2_1-annotated.png) ![alt text](screenshots/page2_2-annotated.png) ![alt text](screenshots/page2_3-annotated.png) ![alt text](screenshots/page2_4-annotated.png) ![alt text](screenshots/page2-annotated.png) ![alt text](screenshots/page3-annotated.png) ![alt text](screenshots/page4-annotated.png)
