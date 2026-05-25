@@ -223,5 +223,4 @@ Software Engineer II at UBS. Built GuardBot end-to-end covering backend agent de
 
 ---
 
-**GitHub:** https://github.com/rogue-coder/guardbot
 ![alt text](screenshots/page1_1-annotated.png) ![alt text](screenshots/page1-annotated.png) ![alt text](screenshots/page2_1-annotated.png) ![alt text](screenshots/page2_2-annotated.png) ![alt text](screenshots/page2_3-annotated.png) ![alt text](screenshots/page2_4-annotated.png) ![alt text](screenshots/page2-annotated.png) ![alt text](screenshots/page3-annotated.png) ![alt text](screenshots/page4-annotated.png)
