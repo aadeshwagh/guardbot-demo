@@ -1,0 +1,11 @@
+.env
+.env.local
+**/__pycache__
+/venv
+/deploy  
+.DS_Store
+*.pyc
+.vscode/
+.idea/
+
+
