@@ -1,7 +1,5 @@
 .env
 .env.local
-/logs
-/baseline/*
 **/__pycache__
 /venv
 /deploy  
