@@ -1,8 +1,13 @@
 .env
+.env.local
 /logs
-/deploy
 /baseline/*
 **/__pycache__
 /venv
+/deploy  
+.DS_Store
+*.pyc
+.vscode/
+.idea/
 
 
